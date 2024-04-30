@@ -1,65 +1,60 @@
-[
-    {
-        "id": 1,
-        "Nome": "Pedro",
-        "Semestre": "3\u00ba Semestre",
-        "Setor": "Presidencia",
-        "Funcao": "Presidente"
-    },
-    {
-        "id": 2,
-        "Nome": "Schemes",
-        "Semestre": "3\u00ba Semestre",
-        "Setor": "Presidencia",
-        "Funcao": "Vice Presidente"
-    },
-    {
-        "id": 3,
-        "Nome": "Jos\u00e9",
-        "Semestre": "3\u00ba Semestre",
-        "Setor": "Projetos",
-        "Funcao": "Diretor"
-    },
-    {
-        "id": 4,
-        "Nome": "Fernando",
-        "Semestre": "4\u00ba Semestre",
-        "Setor": "Mercado",
-        "Funcao": "Diretor"
-    },
-    {
-        "id": 5,
-        "Nome": "Ian",
-        "Semestre": "3\u00ba Semestre",
-        "Setor": "Gest\u00e3o de Pessoas",
-        "Funcao": "Diretor"
-    },
-    {
-        "id": 6,
-        "Nome": "Lucas",
-        "Semestre": "4\u00ba Semestre?",
-        "Setor": "Financeiro",
-        "Funcao": "Gerente"
-    },
-    {
-        "id": 7,
-        "Nome": "Brian",
-        "Semestre": "2\u00ba Semestre",
-        "Setor": "Mercado",
-        "Funcao": "Trainee"
-    },
-    {
-        "id": 8,
-        "Nome": "Bruno",
-        "Semestre": "2\u00ba Semestre",
-        "Setor": "Projetos",
-        "Funcao": "Trainee"
-    },
-    {
-        "Nome": "Maca",
-        "Semestre": "4\u00ba Semestre",
-        "Setor": "O melhor setor(GP)",
-        "Funcao": "A melhor fun\u00e7\u00e3o",
-        "id": 9
-    }
-]
+{
+    "membros": [
+        {
+            "id": 1,
+            "Nome": "Pedro",
+            "Semestre": "3\u00ba Semestre",
+            "Setor": "Presidencia",
+            "Funcao": "Presidente"
+        },
+        {
+            "id": 2,
+            "Nome": "Schemes",
+            "Semestre": "3\u00ba Semestre",
+            "Setor": "Presidencia",
+            "Funcao": "Vice Presidente"
+        },
+        {
+            "id": 3,
+            "Nome": "Jos\u00e9",
+            "Semestre": "3\u00ba Semestre",
+            "Setor": "Projetos",
+            "Funcao": "Diretor"
+        },
+        {
+            "id": 4,
+            "Nome": "Fernando",
+            "Semestre": "4\u00ba Semestre",
+            "Setor": "Mercado",
+            "Funcao": "Diretor"
+        },
+        {
+            "id": 5,
+            "Nome": "Ian",
+            "Semestre": "3\u00ba Semestre",
+            "Setor": "Gest\u00e3o de Pessoas",
+            "Funcao": "Diretor"
+        },
+        {
+            "id": 6,
+            "Nome": "Lucas",
+            "Semestre": "4\u00ba Semestre?",
+            "Setor": "Financeiro",
+            "Funcao": "Gerente"
+        },
+        {
+            "id": 7,
+            "Nome": "Brian",
+            "Semestre": "2\u00ba Semestre",
+            "Setor": "Mercado",
+            "Funcao": "Trainee"
+        },
+        {
+            "id": 8,
+            "Nome": "Bruno",
+            "Semestre": "2\u00ba Semestre",
+            "Setor": "Projetos",
+            "Funcao": "Trainee"
+        }
+    ]
+}
