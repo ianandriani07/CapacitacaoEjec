@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nome_cliente": "Serafini",
+        "pessoas_envolvidas": ["Ian", "Fernando"],
+        "descricao": "Site de vestido de noiva",
+        "prazo_entrega": "17/04/2024",
+        "link_repositorio": "www.github.com/Serafini",
+        "link_projeto": "www.serafini.com"
+    },
+    {
+        "id": 2,
+        "nome_cliente": "ModaTech",
+        "pessoas_envolvidas": ["Pedro", "Brian"],
+        "descricao": "Aplicativo para consultoria de moda",
+        "prazo_entrega": "25/06/2024",
+        "link_repositorio": "www.github.com/ModaTech",
+        "link_projeto": "www.modatech.com"
+    },
+    {
+        "id": 3,
+        "nome_cliente": "EcoTech",
+        "pessoas_envolvidas": ["Schemes", "José"],
+        "descricao": "Plataforma de gestão de resíduos",
+        "prazo_entrega": "05/09/2024",
+        "link_repositorio": "www.github.com/EcoTech",
+        "link_projeto": "www.ecotech.com"
+    },
+    {
+        "id": 4,
+        "nome_cliente": "Beleza Pura",
+        "pessoas_envolvidas": ["Bruno", "Fernando"],
+        "descricao": "E-commerce de produtos de beleza",
+        "prazo_entrega": "15/11/2024",
+        "link_repositorio": "www.github.com/BelezaPura",
+        "link_projeto": "www.belezapura.com"
+    },
+    {
+        "id": 5,
+        "nome_cliente": "HealthyMeal",
+        "pessoas_envolvidas": ["Ian", "José", "Bruno"],
+        "descricao": "App de entrega de refeições saudáveis",
+        "prazo_entrega": "20/01/2025",
+        "link_repositorio": "www.github.com/HealthyMeal",
+        "link_projeto": "www.healthymeal.com"
+    }
+]

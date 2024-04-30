@@ -31,3 +31,7 @@ def adicionaMembro(data_json):
         return {"status": True}
     except Exception as E:
         return {"status": False, "erro": E}
+    
+def listaProjetos():
+    with open('projetos.json', encoding='utf-8') as arquivo:
+        return json.load(arquivo) 
